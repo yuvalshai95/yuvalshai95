@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yuval Shai</h1>
-<h3 align="center">I'm looking for my next challenge as Frontend / Full stack developer positions.</h3>
 
 - 📫 You can reach me at **yuvalshai95@gmail.com**
 
